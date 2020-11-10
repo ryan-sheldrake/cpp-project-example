@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/edumentab/cpp-project-example.svg?branch=master)](https://travis-ci.org/edumentab/cpp-project-example)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryan-sheldrake%2Fcpp-project-example.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryan-sheldrake%2Fcpp-project-example?ref=badge_shield)
 
 # CMake setup for a C++ project
 
@@ -23,3 +24,7 @@ Setup for building `libPalindrome` as a public library to be used by others.
 Example setup for building an Android app for our C++ `libPalindrome` which we connect to via JNI
 (Java Native Interface). We keep the unittests from the general setup and hook them up so we can
 execute them outside the Android environment.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryan-sheldrake%2Fcpp-project-example.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryan-sheldrake%2Fcpp-project-example?ref=badge_large)
